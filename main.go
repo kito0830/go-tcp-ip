@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./network"
+	"github.com/kito0830/go-tcp-ip/network"
 	"encoding/hex"
 	"fmt"
 )
